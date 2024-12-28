@@ -1,1 +1,3 @@
-# Mission_To_Mars_Module_10
+Working with Images using OpenCV
+
+Working with OpenCV Functions to enhance an image of a Mandarin Duck
